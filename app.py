@@ -1,0 +1,1 @@
+<contenido_del_script>
