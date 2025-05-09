@@ -1,8 +1,0 @@
-
-streamlit
-transformers
-gspread
-oauth2client
-pandas
-requests
-google-auth
