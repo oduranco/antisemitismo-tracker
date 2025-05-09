@@ -1,4 +1,7 @@
 streamlit
+transformers
+gspread
+oauth2client
 pandas
-google-api-python-client
+requests
 google-auth
